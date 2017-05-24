@@ -115,7 +115,12 @@ const char *colorname[] = {
 	// 258: foreground color
 	// 259: background color
 	"#d5c4a1", // fg2
-	"#282828", // bg0
+	// "#ebdbb2", // fg
+	"#32302f", // bg0_s
+
+	// "#d5c4a1", // fg2
+	// "#282828", // bg0
+
 	// "#ebdbb2", // fg
 	// "#bdae93", // fg3
 
